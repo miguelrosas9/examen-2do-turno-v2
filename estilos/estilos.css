@@ -24,7 +24,7 @@ body {
 /* -------------- HEADER --------------- */
 
 #hero {
-    background-image: url("imagenes/cabecera.jpg");
+    background-image: url("../imagenes/cabecera.jpg");
     background-size: cover;
     background-position: right;
     color: white;
@@ -172,7 +172,7 @@ footer {
 @media only screen and (max-width:650px){ /* MOVIL */
   #container {width:100%;}
   #hero {
-    background-image: url("imagenes/cabecera2.jpeg");
+    background-image: url("../imagenes/cabecera2.jpeg");
     background-size: cover;
     height: 500px;
     }
